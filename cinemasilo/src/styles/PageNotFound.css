@@ -1,0 +1,10 @@
+.pagenotfound {
+  background-color: white;
+  border-radius: 15px;
+  padding: 20px;
+  text-align: center;
+}
+
+.btn-custom {
+  text-decoration: none;
+}

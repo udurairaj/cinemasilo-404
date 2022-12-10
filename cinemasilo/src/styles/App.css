@@ -1,0 +1,26 @@
+body {
+  font-family: Garamond, serif;
+  background-color: #bbc7f2;
+}
+
+.header-title {
+  text-align: center;
+  color: black;
+  margin-bottom: 20px;
+  font-size: 40px;
+}
+
+.subheader-title {
+  text-align: center;
+  color: black;
+}
+
+em {
+  font-family: Garamond, serif;
+  color: gray;
+  font-size: 15px;
+}
+
+.navbar-custom {
+  background-color: #324ca8;
+}

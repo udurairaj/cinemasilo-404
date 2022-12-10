@@ -1,0 +1,23 @@
+.popup-custom {
+  border: 3px solid orange;
+  border-radius: 20px;
+  width: 85%;
+  padding: 30px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #ffdea1;
+}
+
+.cancel-btn {
+  background-color: #dddddd;
+  color: black;
+  border: 1px solid #324ca8;
+}
+
+.confirm-btn {
+  background-color: #324ca8;
+  color: white;
+  border: 1px solid #324ca8;
+}

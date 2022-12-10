@@ -1,0 +1,99 @@
+{
+  "movies": [
+    {
+      "title": "Cars",
+      "genre": "Kids, Animated",
+      "details": "While traveling to California to race against The King (Richard Petty) and Chick Hicks (Michael Keaton) for the Piston Cup Championship, Lightning McQueen (Owen Wilson) becomes lost after falling out of his trailer in a run down town called Radiator Springs. While there he slowly befriends the town's odd residents, including Sally (Bonnie Hunt), Doc Hudson (Paul Newman) and Mater (Larry the Cable Guy). When it comes time for him to leave to championship is no longer his top priority.",
+      "notes": "Recommended to me by Becca. Animated movie classic for kids.",
+      "user": "Uma",
+      "bookmarkId": "0GYWXcQ",
+      "id": "0"
+    },
+    {
+      "title": "13 Going on 30",
+      "genre": "Romantic Comedy",
+      "details": "A girl who is sick of the social strictures of junior high is transformed into a grownup overnight. In this feel-good fairy tale, teenager Jenna (Christa B. Allen) wants a boyfriend, and when she's unable to find one, she fantasizes about being a well-adjusted adult. Suddenly, her secret desire becomes a reality, and she is transformed into a 30-year-old (Jennifer Garner). But adulthood, with its own set of male-female challenges, isn't as easy as it looks.",
+      "notes": "Classic 2000s era movie, Jennifer Garner! Should watch soon. My mom loves this movie so much and I want to know why.",
+      "user": "Uma",
+      "bookmarkId": "0",
+      "id": "1"
+    },
+    {
+      "title": "Mamma Mia",
+      "genre": "Musical, Romantic Comedy",
+      "details": "Donna (Meryl Streep), an independent hotelier in the Greek islands, is preparing for her daughter's wedding with the help of two old friends. Meanwhile Sophie, the spirited bride, has a plan. She secretly invites three men from her mother's past in hope of meeting her real father and having him escort her down the aisle on her big day.",
+      "notes": "Fun sing-along! Pretty long movie.",
+      "user": "Becca",
+      "bookmarkId": "Q6nsvZQ",
+      "id": "2"
+    },
+    {
+      "title": "Die Hard",
+      "genre": "Action, Thriller",
+      "details": "New York City policeman John McClane (Bruce Willis) is visiting his estranged wife (Bonnie Bedelia) and two daughters on Christmas Eve. He joins her at a holiday party in the headquarters of the Japanese-owned business she works for. But the festivities are interrupted by a group of terrorists who take over the exclusive high-rise, and everyone in it. Very soon McClane realizes that there's no one to save the hostages -- but him.",
+      "notes": "A Christmas must if you ask me, will watch again for the holidays! ",
+      "user": "Tommy Trojan",
+      "bookmarkId": "XVo-P17",
+      "id": "bI135uP"
+    },
+    {
+      "title": "The Matrix",
+      "genre": "Sci-Fi, Action, Mystery",
+      "details": "Neo (Keanu Reeves) believes that Morpheus (Laurence Fishburne), an elusive figure considered to be the most dangerous man alive, can answer his question -- What is the Matrix? Neo is contacted by Trinity (Carrie-Anne Moss), a beautiful stranger who leads him into an underworld where he meets Morpheus. They fight a brutal battle for their lives against a cadre of viciously intelligent secret agents. It is a truth that could cost Neo something more precious than his life.",
+      "notes": "Super cool movie that I love, would watch again!",
+      "user": "Uma",
+      "bookmarkId": "null",
+      "id": "jID3XEf"
+    },
+    {
+      "title": "Coco",
+      "genre": "Family, Adventure",
+      "details": "Despite his family's generations-old ban on music, young Miguel dreams of becoming an accomplished musician like his idol Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead. After meeting a charming trickster named Héctor, the two new friends embark on an extraordinary journey to unlock the real story behind Miguel's family history.",
+      "notes": "My baby cousins love this movie but it even gets me emotional",
+      "user": "Becca",
+      "bookmarkId": "null",
+      "id": "NrE1PiR"
+    },
+    {
+      "title": "Ferris Bueller's Day Off",
+      "genre": "Comedy, Romance",
+      "details": "Ferris Bueller (Matthew Broderick) has an uncanny skill at cutting classes and getting away with it. Intending to make one last duck-out before graduation, Ferris calls in sick, \"borrows\" a Ferrari, and embarks on a one-day journey through the streets of Chicago. On Ferris' trail is high school principal Rooney (Jeffrey Jones), determined to catch him in the act.",
+      "notes": "Really funny movie, good for kids and adults!",
+      "user": "Uma",
+      "bookmarkId": "mVSk0TM",
+      "id": "vBxhVfF"
+    }
+  ],
+  "bookmarks": [
+    {
+      "id": "null",
+      "user": "None",
+      "datetime": "00/00/0000, 00:00:00 XX"
+    },
+    {
+      "id": "0",
+      "user": "Becca",
+      "datetime": "12/1/2022, 9:37:05 AM"
+    },
+    {
+      "user": "Becca",
+      "datetime": "12/9/2022, 10:03:17 AM",
+      "id": "Q6nsvZQ"
+    },
+    {
+      "user": "Tommy Trojan",
+      "datetime": "12/9/2022, 10:31:04 AM",
+      "id": "XVo-P17"
+    },
+    {
+      "user": "Uma",
+      "datetime": "12/9/2022, 11:19:10 PM",
+      "id": "mVSk0TM"
+    },
+    {
+      "user": "Uma",
+      "datetime": "12/9/2022, 11:21:27 PM",
+      "id": "0GYWXcQ"
+    }
+  ]
+}

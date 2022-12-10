@@ -1,0 +1,33 @@
+.movie-div {
+  height: 380px;
+}
+
+.bookmark-btn {
+  width: 40px;
+  padding-left: 0px;
+}
+
+path:hover {
+  color: #dddddd;
+  stroke: #5668a6;
+  stroke-width: 10;
+}
+
+.icon-not-bookmarked path:hover {
+  color: #324ca8;
+}
+
+.btn-custom {
+  background-color: #324ca8;
+  color: white;
+  border: 1px solid #324ca8;
+}
+
+.btn-custom:hover {
+  background-color: #dddddd;
+  border: 1px solid #324ca8;
+}
+
+.movie-notes {
+  height: 72px;
+}
